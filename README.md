@@ -1,1 +1,1 @@
-# satellite-image-enhancement-and-Land-Analysis
+# satellite image enhancement and Land Analysis
